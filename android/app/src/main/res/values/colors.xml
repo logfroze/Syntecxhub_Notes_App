@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors (Subtle Navy / Slate Indigo) -->
+    <color name="primary">#29436E</color>
+    <color name="primary_dark">#1E3152</color>
+    <color name="primary_light">#476495</color>
+    <color name="accent">#29436E</color>
+
+    <!-- Neutral Background & Surfaces -->
+    <color name="background">#F4F6F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#EEF2F6</color>
+    <color name="card_stroke">#DCE2EB</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1C2430</color>
+    <color name="text_secondary">#596780</color>
+    <color name="text_hint">#8A96A6</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Category Pill Colors -->
+    <color name="category_personal">#0284C7</color>
+    <color name="category_work">#059669</color>
+    <color name="category_study">#7C3AED</color>
+    <color name="category_ideas">#D97706</color>
+    <color name="category_default">#4B5563</color>
+
+    <!-- Action & Status Colors -->
+    <color name="pinned_accent">#B45309</color>
+    <color name="pinned_bg">#FEF3C7</color>
+    <color name="archived_accent">#475569</color>
+    <color name="archived_bg">#F1F5F9</color>
+    <color name="delete_color">#DC2626</color>
+</resources>

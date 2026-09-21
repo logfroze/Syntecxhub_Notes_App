@@ -1,0 +1,6 @@
+{
+  "name": "SyntecxHub Notes App",
+  "description": "Project 2 Android Notes App with Room Database, ViewModel, Coroutines, and RecyclerView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

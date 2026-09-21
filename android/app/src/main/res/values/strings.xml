@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SyntecxHub Notes</string>
+    <string name="search_hint">Search title or content&#8230;</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="note_details">Note Details</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="pin">Pin</string>
+    <string name="unpin">Unpin</string>
+    <string name="archive">Archive</string>
+    <string name="unarchive">Unarchive</string>
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Write your note here&#8230;</string>
+    <string name="category_label">Category</string>
+
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_personal">Personal</string>
+    <string name="category_work">Work</string>
+    <string name="category_study">Study</string>
+    <string name="category_ideas">Ideas</string>
+
+    <!-- Filter Tab / Modes -->
+    <string name="filter_active">Active Notes</string>
+    <string name="filter_archived">Archived Notes</string>
+
+    <!-- Empty States -->
+    <string name="empty_notes">No notes found. Tap + to add one.</string>
+    <string name="empty_search">No matching notes found.</string>
+    <string name="empty_archived">No archived notes.</string>
+
+    <!-- Validation & Confirmation -->
+    <string name="error_empty_note">Cannot save an empty note. Please add a title or content.</string>
+    <string name="delete_confirm_title">Delete Note</string>
+    <string name="delete_confirm_message">Are you sure you want to permanently delete this note? This action cannot be undone.</string>
+    <string name="note_saved">Note saved successfully</string>
+    <string name="note_updated">Note updated</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="note_pinned">Note pinned to top</string>
+    <string name="note_unpinned">Note unpinned</string>
+    <string name="note_archived">Note archived</string>
+    <string name="note_unarchived">Note restored from archive</string>
+</resources>
